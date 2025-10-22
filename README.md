@@ -7,3 +7,5 @@
 - **2025-10-19**: Problem 1625 - [Lexicographically Smallest String After Applying Operations](solutions/2025/10/README-2025-10-19.md) (Medium)
 
 - **2025-10-20**: Problem 2011 - [Final Value of Variable After Performing Operations](solutions/2025/10/README-2025-10-20.md) (Easy)
+
+- **2025-10-22**: Problem 3347 - [Maximum Frequency of an Element After Performing Operations II](solutions/2025/10/README-2025-10-22.md) (Hard)
