@@ -37,3 +37,5 @@
 - **2025-10-23**: Problem 3461 - [Check If Digits Are Equal in String After Operations I](solutions/2025/10/README-2025-10-23.md) (Easy)
 
 - **2025-10-23**: Problem 3461 - [Check If Digits Are Equal in String After Operations I](solutions/2025/10/README-2025-10-23.md) (Easy)
+
+- **2025-10-24**: Problem 2048 - [Next Greater Numerically Balanced Number](solutions/2025/10/README-2025-10-24.md) (Medium)
