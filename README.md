@@ -41,3 +41,5 @@
 - **2025-10-24**: Problem 2048 - [Next Greater Numerically Balanced Number](solutions/2025/10/README-2025-10-24.md) (Medium)
 
 - **2025-10-26**: Problem 2043 - [Simple Bank System](solutions/2025/10/README-2025-10-26.md) (Medium)
+
+- **2025-10-27**: Problem 2125 - [Number of Laser Beams in a Bank](solutions/2025/10/README-2025-10-27.md) (Medium)
