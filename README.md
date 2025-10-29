@@ -47,3 +47,5 @@
 - **2025-10-28**: Problem 3354 - [Make Array Elements Equal to Zero](solutions/2025/10/README-2025-10-28.md) (Easy)
 
 - **2025-10-28**: Problem 3354 - [Make Array Elements Equal to Zero](solutions/2025/10/README-2025-10-28.md) (Easy)
+
+- **2025-10-29**: Problem 3370 - [Smallest Number With All Set Bits](solutions/2025/10/README-2025-10-29.md) (Easy)
