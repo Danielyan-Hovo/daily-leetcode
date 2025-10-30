@@ -51,3 +51,5 @@
 - **2025-10-29**: Problem 3370 - [Smallest Number With All Set Bits](solutions/2025/10/README-2025-10-29.md) (Easy)
 
 - **2025-10-30**: Problem 1526 - [Minimum Number of Increments on Subarrays to Form a Target Array](solutions/2025/10/README-2025-10-30.md) (Hard)
+
+- **2025-10-30**: Problem 1526 - [Minimum Number of Increments on Subarrays to Form a Target Array](solutions/2025/10/README-2025-10-30.md) (Hard)
