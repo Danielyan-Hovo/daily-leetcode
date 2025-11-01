@@ -55,3 +55,5 @@
 - **2025-10-30**: Problem 1526 - [Minimum Number of Increments on Subarrays to Form a Target Array](solutions/2025/10/README-2025-10-30.md) (Hard)
 
 - **2025-10-31**: Problem 3289 - [The Two Sneaky Numbers of Digitville](solutions/2025/10/README-2025-10-31.md) (Easy)
+
+- **2025-11-01**: Problem 3217 - [Delete Nodes From Linked List Present in Array](solutions/2025/11/README-2025-11-01.md) (Medium)
