@@ -59,3 +59,5 @@
 - **2025-11-01**: Problem 3217 - [Delete Nodes From Linked List Present in Array](solutions/2025/11/README-2025-11-01.md) (Medium)
 
 - **2025-11-02**: Problem 2257 - [Count Unguarded Cells in the Grid](solutions/2025/11/README-2025-11-02.md) (Medium)
+
+- **2025-11-04**: Problem 3318 - [Find X-Sum of All K-Long Subarrays I](solutions/2025/11/README-2025-11-04.md) (Easy)
