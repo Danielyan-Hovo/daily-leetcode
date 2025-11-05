@@ -63,3 +63,5 @@
 - **2025-11-04**: Problem 3318 - [Find X-Sum of All K-Long Subarrays I](solutions/2025/11/README-2025-11-04.md) (Easy)
 
 - **2025-11-05**: Problem 3321 - [Find X-Sum of All K-Long Subarrays II](solutions/2025/11/README-2025-11-05.md) (Hard)
+
+- **2025-11-05**: Problem 3321 - [Find X-Sum of All K-Long Subarrays II](solutions/2025/11/README-2025-11-05.md) (Hard)
