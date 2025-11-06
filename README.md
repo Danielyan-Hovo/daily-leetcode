@@ -67,3 +67,5 @@
 - **2025-11-05**: Problem 3321 - [Find X-Sum of All K-Long Subarrays II](solutions/2025/11/README-2025-11-05.md) (Hard)
 
 - **2025-11-06**: Problem 3607 - [Power Grid Maintenance](solutions/2025/11/README-2025-11-06.md) (Medium)
+
+- **2025-11-06**: Problem 3607 - [Power Grid Maintenance](solutions/2025/11/README-2025-11-06.md) (Medium)
