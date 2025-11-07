@@ -69,3 +69,5 @@
 - **2025-11-06**: Problem 3607 - [Power Grid Maintenance](solutions/2025/11/README-2025-11-06.md) (Medium)
 
 - **2025-11-06**: Problem 3607 - [Power Grid Maintenance](solutions/2025/11/README-2025-11-06.md) (Medium)
+
+- **2025-11-07**: Problem 2528 - [Maximize the Minimum Powered City](solutions/2025/11/README-2025-11-07.md) (Hard)
