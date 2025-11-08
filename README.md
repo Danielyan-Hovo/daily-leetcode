@@ -73,3 +73,5 @@
 - **2025-11-07**: Problem 2528 - [Maximize the Minimum Powered City](solutions/2025/11/README-2025-11-07.md) (Hard)
 
 - **2025-11-07**: Problem 2528 - [Maximize the Minimum Powered City](solutions/2025/11/README-2025-11-07.md) (Hard)
+
+- **2025-11-08**: Problem 1611 - [Minimum One Bit Operations to Make Integers Zero](solutions/2025/11/README-2025-11-08.md) (Hard)
