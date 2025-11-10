@@ -77,3 +77,5 @@
 - **2025-11-08**: Problem 1611 - [Minimum One Bit Operations to Make Integers Zero](solutions/2025/11/README-2025-11-08.md) (Hard)
 
 - **2025-11-09**: Problem 2169 - [Count Operations to Obtain Zero](solutions/2025/11/README-2025-11-09.md) (Easy)
+
+- **2025-11-10**: Problem 3542 - [Minimum Operations to Convert All Elements to Zero](solutions/2025/11/README-2025-11-10.md) (Medium)
