@@ -79,3 +79,5 @@
 - **2025-11-09**: Problem 2169 - [Count Operations to Obtain Zero](solutions/2025/11/README-2025-11-09.md) (Easy)
 
 - **2025-11-10**: Problem 3542 - [Minimum Operations to Convert All Elements to Zero](solutions/2025/11/README-2025-11-10.md) (Medium)
+
+- **2025-11-11**: Problem 474 - [Ones and Zeroes](solutions/2025/11/README-2025-11-11.md) (Medium)
