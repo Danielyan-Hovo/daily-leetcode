@@ -81,3 +81,5 @@
 - **2025-11-10**: Problem 3542 - [Minimum Operations to Convert All Elements to Zero](solutions/2025/11/README-2025-11-10.md) (Medium)
 
 - **2025-11-11**: Problem 474 - [Ones and Zeroes](solutions/2025/11/README-2025-11-11.md) (Medium)
+
+- **2025-11-12**: Problem 2654 - [Minimum Number of Operations to Make All Array Elements Equal to 1](solutions/2025/11/README-2025-11-12.md) (Medium)
