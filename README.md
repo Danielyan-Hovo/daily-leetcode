@@ -85,3 +85,5 @@
 - **2025-11-12**: Problem 2654 - [Minimum Number of Operations to Make All Array Elements Equal to 1](solutions/2025/11/README-2025-11-12.md) (Medium)
 
 - **2025-11-13**: Problem 3228 - [Maximum Number of Operations to Move Ones to the End](solutions/2025/11/README-2025-11-13.md) (Medium)
+
+- **2025-11-14**: Problem 2536 - [Increment Submatrices by One](solutions/2025/11/README-2025-11-14.md) (Medium)
