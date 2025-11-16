@@ -87,3 +87,5 @@
 - **2025-11-13**: Problem 3228 - [Maximum Number of Operations to Move Ones to the End](solutions/2025/11/README-2025-11-13.md) (Medium)
 
 - **2025-11-14**: Problem 2536 - [Increment Submatrices by One](solutions/2025/11/README-2025-11-14.md) (Medium)
+
+- **2025-11-16**: Problem 1513 - [Number of Substrings With Only 1s](solutions/2025/11/README-2025-11-16.md) (Medium)
