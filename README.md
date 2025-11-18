@@ -93,3 +93,5 @@
 - **2025-11-17**: Problem 1437 - [Check If All 1's Are at Least Length K Places Away](solutions/2025/11/README-2025-11-17.md) (Easy)
 
 - **2025-11-18**: Problem 717 - [1-bit and 2-bit Characters](solutions/2025/11/README-2025-11-18.md) (Easy)
+
+- **2025-11-18**: Problem 717 - [1-bit and 2-bit Characters](solutions/2025/11/README-2025-11-18.md) (Easy)
