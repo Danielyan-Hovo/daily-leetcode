@@ -97,3 +97,5 @@
 - **2025-11-18**: Problem 717 - [1-bit and 2-bit Characters](solutions/2025/11/README-2025-11-18.md) (Easy)
 
 - **2025-11-19**: Problem 2154 - [Keep Multiplying Found Values by Two](solutions/2025/11/README-2025-11-19.md) (Easy)
+
+- **2025-11-20**: Problem 757 - [Set Intersection Size At Least Two](solutions/2025/11/README-2025-11-20.md) (Hard)
