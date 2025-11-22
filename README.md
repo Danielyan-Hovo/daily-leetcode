@@ -101,3 +101,5 @@
 - **2025-11-20**: Problem 757 - [Set Intersection Size At Least Two](solutions/2025/11/README-2025-11-20.md) (Hard)
 
 - **2025-11-21**: Problem 1930 - [Unique Length-3 Palindromic Subsequences](solutions/2025/11/README-2025-11-21.md) (Medium)
+
+- **2025-11-22**: Problem 3190 - [Find Minimum Operations to Make All Elements Divisible by Three](solutions/2025/11/README-2025-11-22.md) (Easy)
