@@ -105,3 +105,5 @@
 - **2025-11-22**: Problem 3190 - [Find Minimum Operations to Make All Elements Divisible by Three](solutions/2025/11/README-2025-11-22.md) (Easy)
 
 - **2025-11-23**: Problem 1262 - [Greatest Sum Divisible by Three](solutions/2025/11/README-2025-11-23.md) (Medium)
+
+- **2025-11-24**: Problem 1018 - [Binary Prefix Divisible By 5](solutions/2025/11/README-2025-11-24.md) (Easy)
