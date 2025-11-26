@@ -109,3 +109,5 @@
 - **2025-11-24**: Problem 1018 - [Binary Prefix Divisible By 5](solutions/2025/11/README-2025-11-24.md) (Easy)
 
 - **2025-11-25**: Problem 1015 - [Smallest Integer Divisible by K](solutions/2025/11/README-2025-11-25.md) (Medium)
+
+- **2025-11-26**: Problem 2435 - [Paths in Matrix Whose Sum Is Divisible by K](solutions/2025/11/README-2025-11-26.md) (Hard)
