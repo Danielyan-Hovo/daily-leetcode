@@ -111,3 +111,5 @@
 - **2025-11-25**: Problem 1015 - [Smallest Integer Divisible by K](solutions/2025/11/README-2025-11-25.md) (Medium)
 
 - **2025-11-26**: Problem 2435 - [Paths in Matrix Whose Sum Is Divisible by K](solutions/2025/11/README-2025-11-26.md) (Hard)
+
+- **2025-11-30**: Problem 1590 - [Make Sum Divisible by P](solutions/2025/11/README-2025-11-30.md) (Medium)
