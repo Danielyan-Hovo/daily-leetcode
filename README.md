@@ -113,3 +113,5 @@
 - **2025-11-26**: Problem 2435 - [Paths in Matrix Whose Sum Is Divisible by K](solutions/2025/11/README-2025-11-26.md) (Hard)
 
 - **2025-11-30**: Problem 1590 - [Make Sum Divisible by P](solutions/2025/11/README-2025-11-30.md) (Medium)
+
+- **2025-12-01**: Problem 2141 - [Maximum Running Time of N Computers](solutions/2025/12/README-2025-12-01.md) (Hard)
