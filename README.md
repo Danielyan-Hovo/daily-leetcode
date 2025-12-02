@@ -115,3 +115,5 @@
 - **2025-11-30**: Problem 1590 - [Make Sum Divisible by P](solutions/2025/11/README-2025-11-30.md) (Medium)
 
 - **2025-12-01**: Problem 2141 - [Maximum Running Time of N Computers](solutions/2025/12/README-2025-12-01.md) (Hard)
+
+- **2025-12-02**: Problem 3623 - [Count Number of Trapezoids I](solutions/2025/12/README-2025-12-02.md) (Medium)
