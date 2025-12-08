@@ -121,3 +121,5 @@
 - **2025-12-03**: Problem 3625 - [Count Number of Trapezoids II](solutions/2025/12/README-2025-12-03.md) (Hard)
 
 - **2025-12-08**: Problem 1925 - [Count Square Sum Triples](solutions/2025/12/README-2025-12-08.md) (Easy)
+
+- **2025-12-08**: Problem 1925 - [Count Square Sum Triples](solutions/2025/12/README-2025-12-08.md) (Easy)
